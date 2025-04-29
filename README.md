@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Minsubb13
 - 👀 I’m interested in Low-Level Programming, Blockchain, Cryptography, and Zero-Knowledge Proofs (ZKP).
-- 🌱 I’m currently studying Cryptography and ZK-SNARK.
+- 🌱 I’m currently studying Rust and ZK-SNARK.
   
   - You can check out my algorithm study notes here:
 
