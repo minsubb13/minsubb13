@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Minsubb13
 - 👀 I’m interested in Low-Level Programming, Blockchain, Cryptography, and Zero-Knowledge Proofs (ZKP).
-- 🌱 I’m currently studying Rust and ZK-SNARK.
+- 🌱 I’m currently working on Chromium's //crypto module.
 - ✅ Check my details: https://sunset-echo-ed0.notion.site/minseopchoi
 - 🎓 I graduated in Data Science at Kwangwoon University, Seoul, South Korea.
 - ⚡ Fun fact: My minor is Korean Language & Literature.
