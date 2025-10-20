@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Minsubb13
-- 👀 I’m interested in Low-Level Programming, Cryptography.
+- 👀 I’m interested in Low-Level Programming and Cryptography.
 - 🌱 I’m currently working on Chromium's //crypto module.
 - 🎓 I graduated in Data Science at Kwangwoon University, Seoul, South Korea.
 - ⚡ Fun fact: My minor is Korean Language & Literature.
