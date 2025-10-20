@@ -1,11 +1,9 @@
 - 👋 Hi, I’m @Minsubb13
-- 👀 I’m interested in Low-Level Programming, Blockchain, Cryptography, and Zero-Knowledge Proofs (ZKP).
+- 👀 I’m interested in Low-Level Programming, Cryptography.
 - 🌱 I’m currently working on Chromium's //crypto module.
-- ✅ Check my details: https://sunset-echo-ed0.notion.site/minseopchoi
 - 🎓 I graduated in Data Science at Kwangwoon University, Seoul, South Korea.
 - ⚡ Fun fact: My minor is Korean Language & Literature.
 - 📫 How to reach me: minsubb13@gmail.com
-
 
 <!---
 Minsubb13/Minsubb13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
