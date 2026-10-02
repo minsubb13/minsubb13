@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @minsubb13
-- I'm interested in Cryptography, low-level programming, and AI-Agent Orchestration.
+- I'm interested in Cryptography, Low-Level Programming, and AI-Agent Orchestration.
